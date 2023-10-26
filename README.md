@@ -1,11 +1,8 @@
-### Pankaj Rathi
-
-- 👋 Hi, I’m Pankaj Rathi
-- 👀 I’m interested in Software System Designing, Software Architecture, Software Development
-
-
 <h1 align="center">Hi 👋, I'm Pankaj Rathi </h1>
-<h3 align="center">A Fullstack Devewloper </h3>
+<h3 align="center">A Fullstack Developer </h3>
+<h3 align="center">
+I’m interested in Software System Designing, Software Architecture, Software Development
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
